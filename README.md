@@ -1,6 +1,8 @@
 # Alphine
 
+git clone https://github.com/hozoowhitehat/Alphine
 
+cd Alphine
 
 docker build -t alpine-novnc .
 
